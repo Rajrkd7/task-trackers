@@ -121,7 +121,7 @@ function AppContent() {
           >
             <Box>
               <Typography variant="h3" fontWeight={700} gutterBottom>
-                TaskGlitch
+                Sells-Tracker
               </Typography>
               <Typography variant="body1" color="text.secondary">
                 Welcome back, {user.name.split(" ")[0]}.
